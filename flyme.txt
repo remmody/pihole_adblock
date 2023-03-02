@@ -1,0 +1,16 @@
+0.0.0.0 laboratory.meizu.com
+0.0.0.0 push.res.meizu.com
+0.0.0.0 u.in.meizu.com
+0.0.0.0 open-iflow.meizu.com
+0.0.0.0 reader.meizu.com
+0.0.0.0 norma-external-collect.meizu.com
+0.0.0.0 p.meizu.com
+0.0.0.0 api-push.meizu.com
+0.0.0.0 push-statics.meizu.com
+0.0.0.0 infocenter.meizu.com
+0.0.0.0 assistant.meizu.com
+0.0.0.0 cal.meizu.com
+0.0.0.0 cal.res.meizu.com
+0.0.0.0 g.meizu.com
+0.0.0.0 bro.flyme.cn
+0.0.0.0 gs.meizu.com
